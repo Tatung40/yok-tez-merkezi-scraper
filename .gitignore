@@ -1,0 +1,12 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Kullanıcı tarafından üretilen yerel veri dosyaları
+*.csv
+*.xlsx
+*.xls
+
+# Geçici dosyalar
+*.log
+*.tmp
